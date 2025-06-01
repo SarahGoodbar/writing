@@ -127,7 +127,7 @@ Here we are at the end of the speech. There is a special richness of detail, a p
 
 Good luck, seniors, and congratulations\!
 
-![picture of my snapshots](rodney_the_horse.jpeg)  
+![picture of my snapshots](rodney_the_horse.jpg)  
 **Right: My father and I in his parents’ kitchen around 1982\.**  
 **Left: My father’s grandfather with Rodney the horse around 1916\.**  
 
