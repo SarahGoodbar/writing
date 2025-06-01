@@ -54,7 +54,7 @@ The setting of our fable is Japan at the time of the Meiji Restoration, during w
 
 At this time, the Ministry of Education, quote, “issued a mandate stipulating that ‘in order to improve the education of families with young children, \[…\] the Ministry will produce a variety of art and toy products appropriate for children soon entering schools” and, quote, “as part of this commitment, the Ministry produced and distributed over the course of the next few years, polychrome nishiki-e prints depicting pedagogical themes,” unquote.  One of these polychrome nishiki-e prints depicts the fiery end of Carlyle’s manuscript. 
 
-In the print a man with comical western attire and porkchop sideburns jumps in anguish around fire,  to the dismay of a nervous little black dog who looks on from the right. The fire burns on the floor in front of a writing desk. There is no “maid of all work” to be seen. No stove.  No parlor. No panicky John Stuart Mill.   Rather, looking closely in the fire, one can discern an overturned oil lamp on top of the burning manuscript. It is clear now why the dog looks so nervous. He is the culprit. The manuscript and lamp had clearly been next to each other on the desk, and the little dog most certainly must have knocked them both to the floor.   
+In the print a man with comical western attire and a chinstrap beard jumps in anguish around fire,  to the dismay of a nervous little black dog who looks on from the right. The fire burns on the floor in front of a writing desk. There is no “maid of all work” to be seen. No stove.  No parlor. No panicky John Stuart Mill.   Rather, looking closely in the fire, one can discern an overturned oil lamp on top of the burning manuscript. It is clear now why the dog looks so nervous. He is the culprit. The manuscript and lamp had clearly been next to each other on the desk, and the little dog most certainly must have knocked them both to the floor.   
 
 Now, I have insider information that the Thomas Carlyle anecdote depicted in this polychrome nishiki-e print is truly a chimera (a new and fantastical creature formed by the melding of two real creatures).  What this print actually shows us, is the manuscript of the 19th-century historian and novelist Thomas Carlyle burning to a grammatical cinder on account of the playful antics of Diamond the Dog, the beloved pet of 17th-century polymath (and co-inventor of calculus) Isaac Newton. 
 
@@ -127,7 +127,7 @@ Here we are at the end of the speech. There is a special richness of detail, a p
 
 Good luck, seniors, and congratulations\!
 
-![][image2]  
+![picture of my snapshots](RodneyTheHorse.jpeg)  
 **Right: My father and I in his parents’ kitchen around 1982\.**  
 **Left: My father’s grandfather with Rodney the horse around 1916\.**  
 
