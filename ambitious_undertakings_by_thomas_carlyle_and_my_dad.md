@@ -60,7 +60,7 @@ Now, I have insider information that the Thomas Carlyle anecdote depicted in thi
 
 You see, the story of Carlyle’s heroic determination to rewrite his manuscript had quickly become an inspirational parable and it was included in an 1859 book now credited with launching the self help genre. In that book, aptly named *Self Help*, the author, aptly named Samuel Smiles, includes the story of “the accidental destruction of Sir Isaac Newton’s papers, by his little dog ‘Diamond’” in the same exact paragraph that covers Carlyle’s little kindling incident. Smiles’s collection of stories to encourage personal growth was soon after translated into Japanese and given the telling *new* title: *Ambitious Undertakings by Westerners.*  
 
-![nishiki-e print](Thomas_Carlyle_nishiki-e.jpg) 
+![nishiki-e print](thomas_carlyle_nishiki-e.jpg) 
 **Thomas Carlye with Isaac Newton’s dog Diamond.** 
 
 What is important to grasp here, is that the mixing of the two stories into one chimerical fable probably wasn’t an accident. By the time a second-rate nishiki-e printmaker was being paid by the Japanese Ministry of Education to illustrate this story for Japanese school children, the story had ceased to be *about* Carlyle *per se*. Carlyle’s name was relevant, but the details of his particular experience were not. Because the *real* story, the relevant part,  only starts after the manuscript is destroyed, at which point the nature of the accident leading up to it was inconsequential.   
@@ -127,7 +127,7 @@ Here we are at the end of the speech. There is a special richness of detail, a p
 
 Good luck, seniors, and congratulations\!
 
-![picture of my snapshots](RodneyTheHorse.jpeg)  
+![picture of my snapshots](rodney_the_horse.jpeg)  
 **Right: My father and I in his parents’ kitchen around 1982\.**  
 **Left: My father’s grandfather with Rodney the horse around 1916\.**  
 
